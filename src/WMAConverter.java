@@ -61,7 +61,7 @@ public class WMAConverter
 
 	private void initialize()
 	{
-		frame = new JFrame("test");
+		frame = new JFrame("WMA Converter");
 		frame.setResizable(false);
 		frame.setBounds(100, 100, 380, 250);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
